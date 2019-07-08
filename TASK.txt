@@ -1,0 +1,8 @@
+TASK:
+Skripta koja ce uzimati sve imagee u folderu i zapakirati u jedan image, te uz drugi file pisat potpis tog image
+
+python skript (PIL) library
+
+primjer:
+
+<Texture name="image" rect="0,0,80,60" />
